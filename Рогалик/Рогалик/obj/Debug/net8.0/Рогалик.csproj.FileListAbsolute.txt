@@ -1,0 +1,28 @@
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.exe
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.deps.json
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.runtimeconfig.json
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.dll
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.pdb
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.AssemblyInfoInputs.cache
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.AssemblyInfo.cs
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.csproj.CoreCompileInputs.cache
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.dll
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\refint\Рогалик.dll
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.pdb
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.genruntimeconfig.cache
+C:\Users\ROGE\Desktop\Рогалик\Рогалик\obj\Debug\net8.0\ref\Рогалик.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.exe
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.deps.json
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.runtimeconfig.json
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\bin\Debug\net8.0\Рогалик.pdb
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.AssemblyInfoInputs.cache
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.AssemblyInfo.cs
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.csproj.CoreCompileInputs.cache
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\refint\Рогалик.dll
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.pdb
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\Рогалик.genruntimeconfig.cache
+C:\Users\ROGE\Desktop\проекты по программированию\Рогалик\Рогалик\obj\Debug\net8.0\ref\Рогалик.dll
